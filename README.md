@@ -25,15 +25,6 @@ This project requires the following Python libraries:
 - plotly
 - scipy
 - XGBoost
-  
-### Usage
-1. **Open the notebook**:
-   - Download or open the Jupyter notebook from this repository.
-
-2. **Run the notebook**:
-   - Execute each cell in the notebook by running the provided Python code.
-
-3. **Install dependencies** (if needed):
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
