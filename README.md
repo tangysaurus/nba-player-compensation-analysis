@@ -6,9 +6,8 @@ Analyzed 467 NBA player salaries and 46 performance metrics (e.g., points per ga
 ### Table of Contents
 1. [Features](#features)
 2. [Requirements](#requirements)
-3. [Usage](#usage)
-4. [License](#license)
-5. [Data Sources](#data-sources)
+3. [License](#license)
+4. [Data Sources](#data-sources)
 
 ### Features
 - Predict player salaries using linear regression and random forest regression.
